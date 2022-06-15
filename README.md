@@ -8,6 +8,44 @@ Unfortunately we can't link to specific header inside jupyter file - this is a b
 
 Explore the repo in the following order:
 
+[1.1 Load data from csv file](1.Data_exploration.ipynb#1.1-Load-data-from-csv-file) 
+
+[1.2 Use `Shapely` to visualise LineStrings from `the_geom` column](1.Data_exploration.ipynb#1.2-Use-Shapely-to-visualise-LineStrings-from-the_geom-column)
+
+[1.3 Visualize all values from the_geom column on one plot](1.Data_exploration.ipynb#1.3-Visualize-all-values-from-the_geom-column-on-one-plot)
+
+[1.4 Create geometry column by loading LineStrings from the_geom column as Shapely objects](1.Data_exploration.ipynb#1.4-Create-geometry-column-by-loading-LineStrings-from-the_geom-column-as-Shapely-objects)
+- [1.4.1 Plot the results](1.Data_exploration.ipynb#1.4.1-Plot-the-results)
+
+[1.5 With the use of `osmnx` create visualisation of San Francisco](1.Data_exploration.ipynb#1.5-With-the-use-of-osmnx-create-visualisation-of-San-Francisco)
+- [1.5.1 Load graph of the city fom `osmnx`](1.Data_exploration.ipynb#1.5.1-Load-graph-of-the-city-fom-osmnx)
+- [1.5.2 Show city visualisation with the use of  `ox` graph](1.Data_exploration.ipynb#1.5.2-Show-city-visualisation-with-the-use-of--ox-graph)
+
+[1.6 Retrieve nodes and edges from San Francisco graph](1.Data_exploration.ipynb#1.6-Retrieve-nodes-and-edges-from-San-Francisco-graph)
+- [1.6.1 Visualize all nodes on the map](1.Data_exploration.ipynb#1.6.1-Visualize-all-nodes-on-the-map)
+- [1.6.2 Analyse edges information](1.Data_exploration.ipynb#1.6.2-Analyse-edges-information)
+- [1.6.3 Visualize San Francisco streets](1.Data_exploration.ipynb#1.6.3-Visualize-San-Francisco-streets)
+
+[1.7 Plot `Speed limit compliance in San Francisco` data on San Francisco map](1.Data_exploration.ipynb#1.7-Plot-Speed-limit-compliance-in-San-Francisco-data-on-San-Francisco-map)
+
+[1.8 Find a way to join edges with the `Speed limit compliance in SF` dataset](1.Data_exploration.ipynb#1.8-Find-a-way-to-join-edges-with-the-Speed-limit-compliance-in-SF-dataset)
+- [1.8.1 Quick glimpse on the geometrical data](1.Data_exploration.ipynb#1.8.1-Quick-glimpse-on-the-geometrical-data)
+- [1.8.2 Try to join speed limit compliance data with the edges data by performing spatial join](1.Data_exploration.ipynb#1.8.2-Try-to-join-speed-limit-compliance-data-with-the-edges-data-by-performing-spatial-join.)
+- [1.8.3 Show joined data on the plot](1.Data_exploration.ipynb#1.8.3-Show-joined-data-on-the-plot.)
+
+[1.9 Join osmnx edges with Speed compliance data by the street column](1.Data_exploration.ipynb#1.9-Join-osmnx-edges-with-Speed-compliance-data-by-the-street-column.)
+
+[1.10 Next approach to data joining](1.Data_exploration.ipynb#1.10-Next-approach-to-data-joining)
+- [1.10.1 Join attempt result](1.Data_exploration.ipynb#1.10.1-Join-attempt-result)
+
+[1.11 Join data by name of the street](1.Data_exploration.ipynb#1.11-Join-data-by-name-of-the-street)
+- [1.11.1 Further data matching](1.Data_exploration.ipynb#1.11.1-Further-data-matching)
+- [1.11.2 Plot the result of joining by the streetname](1.Data_exploration.ipynb#1.11.2-Plot-the-result-of-joining-by-the-streetname)
+
+
+
+
+
 [2.1 Obtaining road data in San Francisco (OSMNX data set)](2.Data processing.ipynb#2_1) 
 
 [2.2 Data cleaning and preparing for ML model (OSMNX data set)](2.Data processing.ipynb#2_2) 
