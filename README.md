@@ -4,6 +4,8 @@ Here is our **Data Engineering** project.
 
 We will work with the **[Speed limit compliance in San Francisco](https://data.sfgov.org/Public-Safety/San-Francisco-Speed-Limit-Compliance/mfjz-pnye)** dataset, we are going to analyze and process the data.
 
+Unfortunately we can't link to specific header inside jupyter file - this is a bug which has not been resolved for 5 years - [see the issue thread](https://gitlab.com/gitlab-org/gitlab/-/issues/18269)
+
 Explore the repo in the following order:
 
 [2.1 Obtaining road data in San Francisco (OSMNX data set)](2.Data processing.ipynb#2_1) 
@@ -56,7 +58,6 @@ Explore the repo in the following order:
 
 You can install all needed libraries (and propably a few needless) using conda and [requirements file](requirements.txt)
 
-Unfortunately we can't link to specific header inside jupyter file - this is a bug which has not been resolved for 5 years - [see the issue thread](https://gitlab.com/gitlab-org/gitlab/-/issues/18269)
 
 Team members:
 - Bartosz Sambór
