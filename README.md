@@ -6,9 +6,30 @@ We will work with the **[Speed limit compliance in San Francisco](https://data.s
 
 Explore the repo in the following order:
 
-[ 2.1 Obtaining road data in San Francisco (OSMNX data set)](2.Data&#32;processing.ipynb#2.1_obtaining_road_data_in_san_francisco_(osmnx_data_set))
+[2.1 Obtaining road data in San Francisco (OSMNX data set)](2.Data processing.ipynb#2_1) 
 
-[ 2.2 Data cleaning and preparing for ML model (OSMNX data set)](2.Data&#32;processing.ipynb#2.2_data_cleaning_and_preparing_for_ML_model_(osmnx_data_set))
+[2.2 Data cleaning and preparing for ML model (OSMNX data set)](2.Data processing.ipynb#2_2) 
+- [2.2.1 dropping unnecessary columns](2.Data processing.ipynb#2_2_1)
+- [2.2.2 improving "maxspeed" column](2.Data processing.ipynb#2_2_2)
+- [2.2.3 improving "oneway" column](2.Data processing.ipynb#2_2_3)
+- [2.2.4 improving "lanes" column](2.Data processing.ipynb#2_2_4)
+- [2.2.5 improving "highway" column](2.Data processing.ipynb#2_2_5)
+- [2.2.5 improving "name" column](2.Data processing.ipynb#2_2_6)
+- [2.2.6 summary](2.Data processing.ipynb#2_2_7)
+
+[2.3 Obtaining speed limit data in San Francisco (SanFranciscoSpeedLimitCompliance data set)](2.Data processing.ipynb#2_3)
+
+[2.4 Data cleaning and preparing for ML model (SanFranciscoSpeedLimitCompliance data set)](2.Data processing.ipynb#2_4)
+- [2.4.1 Dropping unnecessary column](2.Data processing.ipynb#2_4_1)
+- [2.4.2 improving "speedlimit" column](2.Data processing.ipynb#2_4_2)
+- [2.4.2 improving "the_geom" column](2.Data processing.ipynb#2_4_3)
+
+[2.5 Merging datasets](2.Data processing.ipynb#2_5)
+
+[2.6 Preparing merged data for Machine Learning Model](2.Data processing.ipynb#2_6)
+- [2.6.1 Data set for machine learning](2.Data processing.ipynb#2_6_1)
+- [2.6.2 Data set for predictions](2.Data processing.ipynb#2_6_2)
+
 
 ##### Example machine learning usage:
 
