@@ -12,26 +12,26 @@ Explore the repo in the following order:
 
 ##### Example machine learning usage:
 
-[3. Creating machine learning model](#3)  
-- [3.1.1 Load dataset prepared previousl](#3_1_1)  
-- [3.1.2 Split into training and testing sets](#3_1_2)  
+[3. Creating machine learning model](3.Machine learning.ipynb#3)  
+- [3.1.1 Load dataset prepared previousl](3.Machine learning.ipynb#3_1_1)  
+- [3.1.2 Split into training and testing sets](3.Machine learning.ipynb#3_1_2)  
 
-[3.2 Scalling values](#3_2)  
+[3.2 Scalling values](3.Machine learning.ipynb#3_2)  
 
-[3.3 Building deep learning model model](#3_3)  
-- [3.3.1 Finding the best parameters](#3_3_1)  
+[3.3 Building deep learning model model](3.Machine learning.ipynb#3_3)  
+- [3.3.1 Finding the best parameters](3.Machine learning.ipynb#3_3_1)  
 
-[3.4 Predictions for all streets in San Francisco](#3_4)  
-- [3.4.1 Load all streets (saved previously)](#3_4_1)  
-- [3.4.2 Scale - exactly like we did it before with training dataset](#3_4_2)  
-- [3.4.3 Make prediction](#3_4_3)  
+[3.4 Predictions for all streets in San Francisco](3.Machine learning.ipynb#3_4)  
+- [3.4.1 Load all streets (saved previously)](3.Machine learning.ipynb#3_4_1)  
+- [3.4.2 Scale - exactly like we did it before with training dataset](3.Machine learning.ipynb#3_4_2)  
+- [3.4.3 Make prediction](3.Machine learning.ipynb#3_4_3)  
 
-[4. Result visualisation by coloring map](#4)  
-- [4.1 Precentage of cars moving too fast - Over_pct](#4_1)  
-- [4.2 Precentage of cars exceeding speed limit more than 5 mph - O5mph_pct](#4_2)  
-- [4.3 Average speed - Speed_avg](#4_3)  
-- [4.4 Average speed ovet speed limit - SpeedO_avg](#4_4)  
-- [4.5 Average speed of cars exceeding speed limit for more than 5 mph - Spd5O_avg](#4_5)  
+[4. Result visualisation by coloring map](3.Machine learning.ipynb#4)  
+- [4.1 Precentage of cars moving too fast - Over_pct](3.Machine learning.ipynb#4_1)  
+- [4.2 Precentage of cars exceeding speed limit more than 5 mph - O5mph_pct](3.Machine learning.ipynb#4_2)  
+- [4.3 Average speed - Speed_avg](3.Machine learning.ipynb#4_3)  
+- [4.4 Average speed ovet speed limit - SpeedO_avg](3.Machine learning.ipynb#4_4)  
+- [4.5 Average speed of cars exceeding speed limit for more than 5 mph - Spd5O_avg](3.Machine learning.ipynb#4_5)  
 
 You can install all needed libraries (and propably a few needless) using conda and [requirements file](requirements.txt)
 
