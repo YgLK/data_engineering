@@ -1,10 +1,5 @@
 # I03. Speed limit compliance in San Francisco
 
-
-
-
-
-
 Here is our **Data Engineering** project.
 
 We will work with the **[Speed limit compliance in San Francisco](https://data.sfgov.org/Public-Safety/San-Francisco-Speed-Limit-Compliance/mfjz-pnye)** dataset, we are going to analyze and process the data.
@@ -17,7 +12,9 @@ Explore the repo in the following order:
 
 [ 3.1 Example machine learning usage ](3.Machine learning.ipynb)
 
-Unfortunately we can't link to specific header inside jupyter file - this is bug which has not been resolved for 5 years - [see the issue thread](https://gitlab.com/gitlab-org/gitlab/-/issues/18269)
+You can install all needed libraries (and propably a few needless) using conda and [requirements file](requirements.txt)
+
+Unfortunately we can't link to specific header inside jupyter file - this is a bug which has not been resolved for 5 years - [see the issue thread](https://gitlab.com/gitlab-org/gitlab/-/issues/18269)
 
 Team members:
 - Bartosz Sambór
