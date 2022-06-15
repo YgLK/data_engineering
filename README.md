@@ -15,6 +15,8 @@ Explore the repo in the following order:
 
 [ 2.2 Data cleaning and preparing for ML model (OSMNX data set)](2.Data&#32;processing.ipynb#2.2_data_cleaning_and_preparing_for_ML_model_(osmnx_data_set))
 
+[ 3.1 Example machine learning usage ](3.Machine learning.ipynb)
+
 Unfortunately we can't link to specific header inside jupyter file - this is bug which has not been resolved for 5 years - [see the issue thread](https://gitlab.com/gitlab-org/gitlab/-/issues/18269)
 
 Team members:
